@@ -1,6 +1,6 @@
 // tpI_final.c
-// Repositorio público (ejemplo, reemplazar por el tuyo):
-// https://github.com/usuario/tpi_telegram_bot
+// Repositorio público:
+// https://github.com/tomiposle/tpi_telegram_bot/blob/main/tpI_final.c
 
 #include <stdio.h>
 #include <stdlib.h>
